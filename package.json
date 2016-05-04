@@ -1,0 +1,27 @@
+{
+  "name": "cooking-package-vue",
+  "version": "0.0.0",
+  "description": "A cooking plugin.",
+  "keywords": [
+    "cooking"
+  ],
+  "scripts": {
+    "test": ""
+  },
+  "author": "qingwei-li <qingwei.li@ele.me>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cookingjs/cooking-package-vue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cookingjs/cooking-package-vue/issues"
+  },
+  "homepage": "https://github.com/cookingjs/cooking-package-vue#readme",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^1.0.21",
+    "vue-resource": "^0.7.0",
+    "vue-router": "^0.7.13",
+    "vuex": "^0.6.3"
+  }
+}
